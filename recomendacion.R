@@ -2,7 +2,7 @@
 rm(list=ls())
 setwd("~")
 gc()
-setwd("C:/DataScience08012019/ejercicioCarlosRecomendacion/")
+setwd("ejercicioRecomendacion/")
 library(ggplot2)
 library(dplyr)
 library(stringr)
